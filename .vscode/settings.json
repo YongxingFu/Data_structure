@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "*.cfg": "javascript",
+        "*.xs": "javascript",
+        "*.map": "plaintext",
+        "test_list.h": "c"
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#f28220",
+        "activityBar.activeBorder": "#87f8bb",
+        "activityBar.background": "#f28220",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#87f8bb",
+        "activityBarBadge.foreground": "#15202b",
+        "statusBar.background": "#d3690c",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#f28220",
+        "titleBar.activeBackground": "#d3690c",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#d3690c99",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#d3690c",
+    "peacock.showColorInStatusBar": false,
+    "peacock.surpriseMeOnStartup": true
+}
